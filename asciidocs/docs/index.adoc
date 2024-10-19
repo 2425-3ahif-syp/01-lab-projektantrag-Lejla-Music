@@ -25,14 +25,29 @@ endif::backend-html5[]
 
 === Ausgangssituation
 
+Menschen sind in Gefahr, wenn sie verfolgt werden oder Angst haben, dass ihnen etwas passieren könnte wenn sie zb. in der Nacht auf dem Nachhauseweg sind.
+Deswegen soll eine Handy-Applikation entiwckelt werden, die in solchen Situationen hilft.
+Die Applikation soll in der Lage sein, die Position des Benutzers zu bestimmen und im Notfall die Polizei zu verständigen.
 
 
 === Istzustand
 ----
 Beschreibung der speziellen Situation zB in der Abteilung
 ----
+
+Bestehende Applikationen, die in solchen Situationen helfen, sind oft nicht ausreichend oder nicht benutzerfreundlich genug.
+
 === Problemstellung
+
+
+
 === Aufgabenstellung
+
+- Die Applikation soll in der Lage sein, die Position des Benutzers zu bestimmen.
+- Die Applikation soll im Notfall die Polizei verständigen.
+- Die Applikation soll einfach zu bedienen sein - auch in Stresssituationen.
+- Shortcut um der Person am anderen Ende der Leitung zu sagen, dass die Person gerade in Gefahr sein könnte.
+
 ==== Funktionale Anforderungen
 
 [plantuml,wireframe,png]
